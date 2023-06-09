@@ -1,7 +1,7 @@
 # Memory-Game
  Mid-term project of advanced programming course
  
-## Table of Contents
+## Contents
 
 - [Project Description](#project-description)
 - [Usage](#usage)
